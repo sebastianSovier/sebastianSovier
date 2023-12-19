@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastián Andrés Sovier Moreno</h1>
 <h3 align="center">A passionate FullStack Developer of Chile</h3>
 
-- 🔭 I’m currently working on Banchile Inversiones **MiInversion**
+- 🔭 I’m currently working on Banchile Inversiones **WEB**
 
 - 🌱 I’m currently learning **Node.js**
 
