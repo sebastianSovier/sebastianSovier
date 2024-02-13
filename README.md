@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **Javascript,Angular,.Net and .Net core,Oracle,MySql**
+- 💬 Ask me about **Javascript,NodeJs,Angular,.Net and .Net core,Oracle,MySql**
 
 - 📫 How to reach me **sebastian.sovier@hotmail.com**
 
