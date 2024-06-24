@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Banchile Inversiones **WEB**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js** and **Java**
 
 - 💬 Ask me about **Javascript,NodeJs,Angular,.Net and .Net core,Oracle,MySql**
 
